@@ -1,2 +1,3 @@
 # MinhasTarefas
-Aplicativo desenvolvido pelo ferramenta flutterflow. 
+Aplicativo desenvolvido com a
+ferramenta flutterflow. 
